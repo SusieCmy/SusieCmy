@@ -6,6 +6,4 @@
 > ![Vue3](https://img.shields.io/badge/framework-Vue3-brightgreen)
 > ![Vue3](https://img.shields.io/badge/React-pink)
 
-
-
-![技能占比](./skill-chart.gif)
+<img src="./skill-chart.gif" alt="技能图表" width="400" height="400" />
