@@ -8,4 +8,4 @@
 
 
 
-![技能占比](./skill-chart.png)
+![技能占比](./skill-chart.gif)
