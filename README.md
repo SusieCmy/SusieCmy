@@ -7,3 +7,5 @@
 > ![Vue3](https://img.shields.io/badge/React-pink)
 
 
+
+![技能占比](./skill-chart.png)
