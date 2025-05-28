@@ -43,11 +43,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SusieCmy&theme=react-dark&area=true&hide_border=true" width="100%"/>
 </div>
 
-### 📈 提交活动热力图
-<div align="center">
-  <img src="https://ghchart.rshah.org/409ba5/SusieCmy" alt="GitHub Contribution Chart" width="100%"/>
-</div>
-
 ## 🎓 技术成长
 
 - 📝 定期在掘金、CSDN等平台分享技术文章
