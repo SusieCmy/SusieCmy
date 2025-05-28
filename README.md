@@ -36,40 +36,17 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SusieCmy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusieCmy&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SusieCmy&theme=radical"/>
 </div>
 
-## 🏆 项目亮点
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SusieCmy&theme=react-dark&area=true&hide_border=true" width="100%"/>
+</div>
 
-### 🌟 [项目名称1 - 企业级管理平台](https://github.com/your-username/project1)
-**技术栈**: React + TypeScript + Ant Design + Redux Toolkit
-- 🎯 构建了支持10万+用户的企业级后台管理系统
-- 🚀 实现了微前端架构，提升了团队协作效率
-- ⚡ 通过代码分割和懒加载优化，首屏加载时间减少60%
-
-### 🌟 [项目名称2 - 移动端电商应用](https://github.com/your-username/project2)
-**技术栈**: Vue 3 + Vite + Pinia + Vant
-- 📱 开发了响应式移动端电商平台
-- 💡 集成了支付宝、微信支付等多种支付方式
-- 🎨 实现了流畅的交互动画和用户体验
-
-### 🌟 [项目名称3 - 开源组件库](https://github.com/your-username/project3)
-**技术栈**: React + TypeScript + Storybook + Rollup
-- 📦 开发了可复用的React组件库，获得100+ star
-- 📚 完善的文档和示例，支持按需加载
-- 🧪 100%单元测试覆盖率，确保代码质量
-
-## 💼 工作经历
-
-**高级前端开发工程师** | ABC科技公司 | 2021 - 至今
-- 负责核心产品的前端架构设计和开发
-- 带领3人前端团队，制定开发规范和最佳实践
-- 主导技术选型和性能优化，页面加载速度提升40%
-
-**前端开发工程师** | XYZ互联网公司 | 2019 - 2021
-- 参与多个Web应用的开发和维护
-- 负责移动端H5页面开发，兼容性达到95%+
-- 参与前端工程化建设，提升团队开发效率
+### 📈 提交活动热力图
+<div align="center">
+  <img src="https://ghchart.rshah.org/409ba5/SusieCmy" alt="GitHub Contribution Chart" width="100%"/>
+</div>
 
 ## 🎓 技术成长
 
@@ -81,10 +58,8 @@
 ## 📫 联系方式
 
 - 📧 Email: your-email@example.com
-- 🐙 GitHub: [@your-username](https://github.com/your-username)
 - 💼 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
 - 📝 技术博客: [your-blog.com](https://your-blog.com)
-- 🐦 微博: [@your-weibo](https://weibo.com/your-weibo)
 
 ## 🎯 职业目标
 
@@ -93,7 +68,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&color=brightgreen" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SusieCmy&color=brightgreen" alt="Profile views" />
   
   **感谢访问我的GitHub！如果你觉得我的项目有帮助，请给个 ⭐️**
 </div>
