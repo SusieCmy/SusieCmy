@@ -34,12 +34,12 @@
 
 ## 📊 GitHub 统计
 
-<div align="center">
+<div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SusieCmy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SusieCmy&theme=radical"/>
 </div>
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SusieCmy&theme=react-dark&area=true&hide_border=true" width="100%"/>
 </div>
 
