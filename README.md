@@ -51,9 +51,9 @@
 
 ## 📫 联系方式 | Contact Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- 📝 技术博客 | Tech Blog: [your-blog.com](https://your-blog.com)
+- 📧 Email: 
+- 💼 LinkedIn:
+- 📝 技术博客 | Tech Blog:
 
 ## 🎯 职业目标 | Career Goals
 
