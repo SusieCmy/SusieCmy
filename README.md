@@ -35,11 +35,6 @@
 - **设计工具 | Design Tools**: Figma, Adobe XD
 
 ## 📊 GitHub 统计 | GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SusieCmy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SusieCmy&theme=radical"/>
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SusieCmy&theme=react-dark&area=true&hide_border=true" width="100%"/>
 </div>
@@ -57,7 +52,7 @@
 
 ## 🎯 职业目标 | Career Goals
 
-致力于成为全栈工程师，在Web前端领域持续深耕的同时，探索更多技术可能性。希望通过技术创新为用户创造更好的数字体验，同时为开源社区贡献自己的力量。
+成为全栈工程师，在Web前端领域持续深耕的同时，探索更多技术可能性。希望通过技术创新为用户创造更好的数字体验，同时为开源社区贡献自己的力量。
 
 *Committed to becoming a full-stack engineer, continuing to cultivate in the field of web frontend while exploring more technological possibilities. Hope to create better digital experiences for users through technological innovation, while contributing to the open source community.*
 
