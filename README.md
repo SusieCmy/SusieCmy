@@ -52,10 +52,6 @@
 
 ## 🎯 职业目标 | Career Goals
 
-成为全栈工程师，在Web前端领域持续深耕的同时，探索更多技术可能性。希望通过技术创新为用户创造更好的数字体验，同时为开源社区贡献自己的力量。
-
-*Committed to becoming a full-stack engineer, continuing to cultivate in the field of web frontend while exploring more technological possibilities. Hope to create better digital experiences for users through technological innovation, while contributing to the open source community.*
-
 ---
 
 <div align="center">
