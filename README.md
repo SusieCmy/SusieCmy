@@ -46,9 +46,6 @@
 
 ## 📫 联系方式 | Contact Me
 
-- 📧 Email: 
-- 💼 LinkedIn:
-- 📝 技术博客 | Tech Blog:
 
 ## 🎯 职业目标 | Career Goals
 
