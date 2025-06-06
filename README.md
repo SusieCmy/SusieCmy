@@ -1,4 +1,4 @@
-# 👋 你好，我是一名前端开发工程师 | Hi, I'm a Frontend Developer
+# 👋 Hi, I'm a Frontend Developer
 
 ## 🚀 关于我 | About Me
 
