@@ -41,9 +41,6 @@
 
 ## 🎓 技术成长 | Technical Growth
 
-- 📝 定期在掘金、CSDN等平台分享技术文章 | Regularly share technical articles on Juejin, CSDN and other platforms
-- 📖 保持持续学习，关注前端技术发展趋势 | Keep continuous learning, focus on frontend technology trends
-
 ## 📫 联系方式 | Contact Me
 
 
