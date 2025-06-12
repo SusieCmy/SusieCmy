@@ -37,10 +37,8 @@
 ## 📊 GitHub 统计 | GitHub Stats
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SusieCmy&theme=react-dark&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusieCmy&layout=compact&theme=radical" width="100%"/>
 </div>
-## 📊 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusieCmy&layout=compact&theme=radical" width="100%"/>
-![Top Languages]()
 
 ## 🎓 技术成长 | Technical Growth
 
