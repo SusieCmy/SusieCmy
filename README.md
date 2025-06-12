@@ -1,4 +1,4 @@
-# 👋 Hi, I'm a Frontend Developer
+# 👋 Hi, I'm a Susie
 
 ## 🚀 关于我 | About Me
 
