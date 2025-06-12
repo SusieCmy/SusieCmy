@@ -35,7 +35,7 @@
 - **设计工具 | Design Tools**: Figma, Adobe XD
 
 ## 📊 GitHub 统计 | GitHub Stats
-<div align="center">
+<div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SusieCmy&theme=react-dark&area=true&hide_border=true" width="50%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusieCmy&layout=compact&theme=radical" width="50%"/>
 </div>
