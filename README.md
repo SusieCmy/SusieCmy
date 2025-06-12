@@ -39,18 +39,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SusieCmy&theme=react-dark&area=true&hide_border=true" width="50%" height="200px"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusieCmy&layout=compact&theme=radical" width="50%" height="200px"/> 
 </div>
 
-## 🎓 技术成长 | Technical Growth
-
-## 📫 联系方式 | Contact Me
-
-## 🎯 职业目标 | Career Goals
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SusieCmy&color=brightgreen" alt="Profile views" />
-  
-  **感谢访问我的GitHub！如果你觉得我的项目有帮助，请给个 ⭐️**
-  
-  **Thanks for visiting my GitHub! If you find my projects helpful, please give a ⭐️**
-</div>
