@@ -28,11 +28,6 @@
 - **测试框架 | Testing**: Jest, Cypress, React Testing Library
 - **IDE**: VS Code, WebStorm
 
-### 后端 & 其他 | Backend & Others
-- **后端了解 | Backend**: Node.js, Next.js, Express, Koa
-- **数据库 | Database**: MongoDB, MySQL
-- **部署运维 | DevOps**: Docker, CI/CD, Vercel, Netlify
-- **设计工具 | Design Tools**: Figma, Adobe XD
 
 ## 📊 GitHub 统计 | GitHub Stats
 <div>
