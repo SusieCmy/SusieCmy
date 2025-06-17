@@ -13,14 +13,6 @@
 - ⚡ 兴趣：新技术探索、开源贡献、技术分享 | Interests: New tech exploration, open source contribution, tech sharing
 
 ## 🛠️ 技术栈 | Tech Stack
-
-### 核心技能 | Core Skills
-- **语言 | Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **框架 | Frameworks**: React, Vue.js, Next.js, Nuxt.js
-- **状态管理 | State Management**: Redux, Zustand, Pinia, Context API
-- **构建工具 | Build Tools**: Webpack, Vite, Parcel, Rollup
-- **样式方案 | Styling**: Sass/SCSS, Less, Styled-Components, Tailwind CSS, CSS Modules
-
 ### 开发工具 | Development Tools
 - **版本控制 | Version Control**: Git, GitHub, GitLab
 - **包管理 | Package Management**: npm, yarn, pnpm
