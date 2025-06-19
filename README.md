@@ -12,15 +12,6 @@
 - 💬 欢迎讨论前端技术、架构设计、性能优化等话题 | Welcome to discuss frontend technologies, architecture design, performance optimization
 - ⚡ 兴趣：新技术探索、开源贡献、技术分享 | Interests: New tech exploration, open source contribution, tech sharing
 
-## 🛠️ 技术栈 | Tech Stack
-### 开发工具 | Development Tools
-- **版本控制 | Version Control**: Git, GitHub, GitLab
-- **包管理 | Package Management**: npm, yarn, pnpm
-- **代码质量 | Code Quality**: ESLint, Prettier, Husky, lint-staged
-- **测试框架 | Testing**: Jest, Cypress, React Testing Library
-- **IDE**: VS Code, WebStorm
-
-
 ## 📊 GitHub 统计 | GitHub Stats
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SusieCmy&theme=react-dark&area=true&hide_border=true" width="100%"/>
