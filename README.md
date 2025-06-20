@@ -12,7 +12,7 @@
 - 💬 欢迎讨论前端技术、架构设计、性能优化等话题 | Welcome to discuss frontend technologies, architecture design, performance optimization
 - ⚡ 兴趣：新技术探索、开源贡献、技术分享 | Interests: New tech exploration, open source contribution, tech sharing
 
-## 📊 GitHub 统计 | GitHub Stats
+## 📊 GitHub 统计
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SusieCmy&theme=react-dark&area=true&hide_border=true" width="100%"/>
 </div>
