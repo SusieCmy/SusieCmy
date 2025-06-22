@@ -4,8 +4,6 @@
 
 专注于构建用户友好的现代化Web应用。热爱技术创新，追求代码质量与用户体验的完美结合。
 
-*Focused on building user-friendly modern web applications. Passionate about technological innovation, pursuing the perfect combination of code quality and user experience.*
-
 - 🔭 目前专注于 **React生态系统**、**视觉动画** 和 **现代化前端架构** | Currently focusing on **React Ecosystem**, **Visual Animation** and **Modern Frontend Architecture**
 - 🌱 正在学习 **微前端架构** 和 **Web3.0技术** | Learning **Micro-frontend Architecture** and **Web3.0 Technologies**
 - 👯 乐于参与开源项目和技术社区 | Love to participate in open source projects and tech communities
