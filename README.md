@@ -8,7 +8,7 @@
 - 🌱 正在学习 **微前端架构** 和 **Web3.0技术** | Learning **Micro-frontend Architecture** and **Web3.0 Technologies**
 - 👯 乐于参与开源项目和技术社区 | Love to participate in open source projects and tech communities
 - 💬 欢迎讨论前端技术、架构设计、性能优化等话题 | Welcome to discuss frontend technologies, architecture design, performance optimization
-- ⚡ 兴趣：新技术探索、开源贡献、技术分享 | Interests: New tech exploration, open source contribution, tech sharing
+- ⚡ 兴趣：新技术探索、开源贡献、技术分享
 
 ## 📊 GitHub 统计
 <div>
