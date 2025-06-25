@@ -6,7 +6,7 @@
 
 - 🔭 目前专注于 **React生态系统**、**视觉动画** 和 **现代化前端架构** | Currently focusing on **React Ecosystem**, **Visual Animation** and **Modern Frontend Architecture**
 - 🌱 正在学习 **微前端架构** 和 **Web3.0技术** | Learning **Micro-frontend Architecture** and **Web3.0 Technologies**
-- 👯 乐于参与开源项目和技术社区 | Love to participate in open source projects and tech communities
+- 👯 乐于参与开源项目和技术社区 
 - 💬 欢迎讨论前端技术、架构设计、性能优化等话题
 - ⚡ 兴趣：新技术探索、开源贡献、技术分享
 
